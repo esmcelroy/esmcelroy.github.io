@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Eric's Space - misc</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2022-03-22T00:00:00-04:00</updated><entry><title>Hello World!</title><link href="/hello-world.html" rel="alternate"></link><published>2022-03-22T00:00:00-04:00</published><updated>2022-03-22T00:00:00-04:00</updated><author><name>Eric McElroy</name></author><id>tag:None,2022-03-22:/hello-world.html</id><summary type="html">&lt;h1&gt;Hello World!~&lt;/h1&gt;
+&lt;p&gt;After more than a decade since my last interaction with blogging, I've decided it's time to put a blog back together. No commitments on how often this gets updated, but you could expect content related to tech (cloud, devops, consumer tech), transit (mostly Toronto-centric), maybe some light politics …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Hello World!~&lt;/h1&gt;
+&lt;p&gt;After more than a decade since my last interaction with blogging, I've decided it's time to put a blog back together. No commitments on how often this gets updated, but you could expect content related to tech (cloud, devops, consumer tech), transit (mostly Toronto-centric), maybe some light politics (but not too much...), travel, etc...&lt;/p&gt;
+&lt;p&gt;Looking forward to getting back to writing!&lt;/p&gt;
+&lt;p&gt;Cheers,
+-Eric&lt;/p&gt;</content><category term="misc"></category></entry></feed>
